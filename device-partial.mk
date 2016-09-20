@@ -59,4 +59,5 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/libvdmengine.so:system/vendor/lib/libvdmengine.so:lge \
     vendor/lge/hammerhead/proprietary/libvdmfumo.so:system/vendor/lib/libvdmfumo.so:lge \
     vendor/lge/hammerhead/proprietary/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so:lge \
+    vendor/lge/hammerhead/proprietary/DxHdcp.cfg:system/etc/DxHDCP.cfg:lge \
 
